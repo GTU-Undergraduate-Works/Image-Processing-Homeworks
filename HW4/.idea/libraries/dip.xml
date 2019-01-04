@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="dip">
+    <CLASSES>
+      <root url="jar://$GOOGLE_APPLICATION_CREDENTIALS$/GTU Bilgisayar/Digital Image Processing/Homeworks/jars/dip.jar!/" />
+      <root url="jar://$GOOGLE_APPLICATION_CREDENTIALS$/GTU Bilgisayar/Digital Image Processing/Homeworks/jars/jai_codec.jar!/" />
+      <root url="jar://$GOOGLE_APPLICATION_CREDENTIALS$/GTU Bilgisayar/Digital Image Processing/Homeworks/jars/jai_core.jar!/" />
+      <root url="jar://$GOOGLE_APPLICATION_CREDENTIALS$/GTU Bilgisayar/Digital Image Processing/Homeworks/jars/Jama-1.0.2.jar!/" />
+      <root url="jar://$GOOGLE_APPLICATION_CREDENTIALS$/GTU Bilgisayar/Digital Image Processing/Homeworks/jars/weka.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

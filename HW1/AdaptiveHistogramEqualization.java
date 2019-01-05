@@ -67,7 +67,6 @@ public class AdaptiveHistogramEqualization {
         }
         for (int i = row; i < row+ WINDOW_SIZE && i < width; ++i) {
             for (int j = column; j < column+ WINDOW_SIZE && j < height; ++j) {
-                histogram[input.getXYByte(i, j)]++;
                 int nVal = (int) arr[input.getXYByte(i,j)];
                 input.setXYByte(i,j,nVal);
             }
